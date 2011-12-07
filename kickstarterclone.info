@@ -1,0 +1,12 @@
+core = "6.x"
+dependencies[] = "admin_menu"
+dependencies[] = "authorizenet"
+dependencies[] = "donate"
+dependencies[] = "pay"
+dependencies[] = "pay_node"
+dependencies[] = "pay_progress"
+dependencies[] = "postal"
+description = "A clone of kickstarter"
+name = "Kickstarter Clone"
+package = "Features"
+
